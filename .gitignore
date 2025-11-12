@@ -1,0 +1,33 @@
+AppData/ 
+AMD/ 
+.vscode/ 
+# Windows system files
+AppData/
+Local Settings/
+Temp/
+*.tmp
+*.temp
+
+# AMD cache files
+AMD/
+DxCache/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
